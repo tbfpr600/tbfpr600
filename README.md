@@ -29,5 +29,5 @@
 <h2>Contact</h2>
 
 <span>
-  <a mailto:tbfpr600@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></img></a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@gmail.com)](mailto:tbfpr600@gmail.com)
 </span>
