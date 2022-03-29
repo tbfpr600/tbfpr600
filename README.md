@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=React&logoColor=white"></img>
 </span>
 
-<h1>My Git Hub Status</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
+<h1>My Git Hub Stats</h1>
+![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
