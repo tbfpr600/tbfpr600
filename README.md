@@ -1,5 +1,6 @@
 <h1>Hi there 👋 My name is HeoSungWook , 24 years old</h1>
 
+<h1>My Git Hub Stats</h1>
 ![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
 
 <h2>My Skils 🤟</h2>
@@ -25,5 +26,3 @@
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=React&logoColor=white"></img>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=React&logoColor=white"></img>
 </span>
-
-<h1>My Git Hub Stats</h1>
