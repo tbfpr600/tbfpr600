@@ -1,6 +1,8 @@
 <h1>Hi there 👋 My name is HeoSungWook , 24 years old</h1>
 
 ![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
+[![Solved.actbfpr600](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 <h2>My Skils 🤟</h2>
 <span>
