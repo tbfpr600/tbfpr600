@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3CFBFF&height=300&section=header&text=Welcome%20HSW github&fontSize=60" />
   <br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftbfpr600&count_bg=%233CFBFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a> 
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftbfpr600&count_bg=%231E90FF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a> 
 <h1>Hi there 👋 My name is HeoSungWook , 24 years old</h1>
 
 ![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
