@@ -1,6 +1,6 @@
 <h1>Hi there 👋 My name is HeoSungWook , 24 years old</h1>
 
-<div>My Skils 🤟</div>
+<h2>My Skils 🤟</h2>
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></img>
@@ -8,14 +8,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></img>
 </span>
 
-Here are some ideas to get you started:
+<h3>My SNS</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <a href="https://www.instagram.com/pride_hsw_990126/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></img></a>
+</span>
