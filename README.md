@@ -25,4 +25,6 @@
 </span>
 
 <h1>My Git Hub Stats</h1>
-![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
+<div>
+  ![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
+</div>
