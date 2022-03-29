@@ -29,5 +29,5 @@
 <h2>Contact</h2>
 
 
-![mailto:tbfpr600@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@gmail.com)]
-
+![mailto:tbfpr600@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@gmail.com)
+![mailto:tbfpr600@naver.com](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@Naver.com)
