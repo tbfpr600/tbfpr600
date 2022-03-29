@@ -10,6 +10,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></img>
 </span>
 
+<h2>Use Tools</h2>
+
+<span>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=React&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=React&logoColor=white"></img>
+</span>
+
 <h2>My SNS</h2>
 
 <span>
@@ -17,11 +24,4 @@
 </span>
 <span>
   <a href="https://www.facebook.com/profile.php?id=100005231075789"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"></img></a>
-</span>
-
-<h2>Use Tools</h2>
-
-<span>
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=React&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=React&logoColor=white"></img>
 </span>
