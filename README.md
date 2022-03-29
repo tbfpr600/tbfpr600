@@ -28,6 +28,6 @@
 
 <h2>Contact</h2>
 
-<span>
-  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@gmail.com)](mailto:tbfpr600@gmail.com)
-</span>
+
+![mailto:tbfpr600@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbfpr600@gmail.com)]
+
