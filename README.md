@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome HSW github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20HSW github&fontSize=60" />
 <h1>Hi there 👋 My name is HeoSungWook , 24 years old</h1>
 
 ![tbfpr600's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbfpr600&show_icons=true&theme=radical)
