@@ -30,7 +30,7 @@
   <a href="https://www.facebook.com/profile.php?id=100005231075789"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"></img></a>
 </span>
 <span>
-  <a href="https://www.notion.so/HeoSungwook-s-Resume-400a2fdebf694ea1a636417584f535ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></img></a>
+  <a href="https://aluminum-sesame-84a.notion.site/HeoSungwook-s-Resume-400a2fdebf694ea1a636417584f535ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></img></a>
 </span>
 
 <h2>Contact</h2>
